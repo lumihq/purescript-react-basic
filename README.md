@@ -48,4 +48,4 @@ If you were using [`react-basic-hooks`](https://github.com/spicydonuts/purescrip
 
 ## Where did the examples folder go?
 
-Because this library no longer contains a specific implementation and the example structure contained a fair bit of boilerplate, they've been removed in favor of a consolidated documentation site (linked above). This is still a work in progress but you can refer to the [v14 examples](https://github.com/lumihq/purescript-react-basic/tree/v14.0.0/examples) in the meantime.
+Because this library no longer contains a specific implementation and the example structure contained a fair bit of boilerplate, they've been moved to the `react-basic-classic` repository, in the [`examples` folder](https://github.com/lumihq/purescript-react-basic-classic/tree/main/examples). In addtion, a consolidated documentation site (linked above) is being worked on. 
